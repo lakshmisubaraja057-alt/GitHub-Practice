@@ -1,0 +1,5 @@
+Module: Login
+Test Case: Valid username and password
+Expected Result: User should login successfully
+Actual Result: Login successful
+Status: Passed
