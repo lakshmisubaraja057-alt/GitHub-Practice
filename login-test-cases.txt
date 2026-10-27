@@ -2,4 +2,4 @@ Test Case ID: TC001
 Module: Login
 Scenario: Verify login page
 Expected Result: Login page should open successfully
-Status: Not Executed
+Status: pass
